@@ -1,7 +1,7 @@
 
 import { useState } from "react"
 import AddForm from "./components/AddForm"
-import ShoppingList from "./components/ShoppingList"
+import ShoppingList from "./components/ShoppingLIst"
 
 const startListe = [
   { id: 1, name: "Melk", qty: 2, bought: false },
