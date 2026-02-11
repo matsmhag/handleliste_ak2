@@ -1,4 +1,4 @@
-import ShoppingItem from "./ShoppingItem"
+import ShoppingItem from "./ShoppingItem.jsx"
 
 export default function ShoppingList({ items, onToggle, onQtyChange }) {
   return (
